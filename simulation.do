@@ -1,0 +1,1 @@
+vsim -voptargs=+acc work.tb_pwm_ctr
